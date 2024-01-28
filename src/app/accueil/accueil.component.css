@@ -12,7 +12,7 @@
   position: relative;
   height: 100vh;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url('images/Mosquée-Maryam-de-Caen.png');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url('/assets/images/Mosquée-Maryam-de-Caen.png');
   background-size: cover;
   background-position: center;
   padding: 0 8%;
@@ -92,7 +92,7 @@ ul li a:hover::after {
   margin-left: -10px;
   color: transparent;
   -webkit-text-stroke: 1px white;
-  background: url('images/pattern1.png');
+  background: url('/assets/images/pattern1.png');
   -webkit-background-clip: text;
   background-clip: text;
   background-position: 0 0;
